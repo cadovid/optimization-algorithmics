@@ -18,4 +18,4 @@ An implementation of the [Karush–Kuhn–Tucker](https://en.wikipedia.org/wiki/
 
 ## 4. Penalty Method
 
-An implementation of a [Penalty method](https://en.wikipedia.org/wiki/Penalty_method), developed as a [logarithmic barrier function](https://en.wikipedia.org/wiki/Barrier_function) to solve a minimization problem subject to inequality constraints.
+An implementation of a [Penalty method](https://en.wikipedia.org/wiki/Penalty_method), developed as a [logarithmic barrier function](https://en.wikipedia.org/wiki/Barrier_function), to solve a minimization problem subject to inequality constraints.
